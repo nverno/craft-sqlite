@@ -1,0 +1,10 @@
+{
+  "sqls": {
+    "connections": [
+      {
+        "driver": "sqlite3",
+        "dataSourceName": "file:data/sample.db"
+      }
+    ]
+  }
+}
